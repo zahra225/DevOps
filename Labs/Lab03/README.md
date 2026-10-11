@@ -4,3 +4,5 @@ This line was updated locally at the same time, again.
 This line was added remotely from GitHub.
 Second remote line.
 Second local line.
+Feature line 1
+Feature line 2
