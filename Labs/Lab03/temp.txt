@@ -1,2 +1,3 @@
 Test line 1
 Log message fix
+temporary text
