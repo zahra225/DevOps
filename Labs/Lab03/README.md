@@ -1,5 +1,5 @@
 # Lab 03 - Advanced Git
-This line was added locally.
+This line was updated locally at the same time.
 This line was added remotely from GitHub.
 <<<<<<< HEAD
 Second remote line.
