@@ -5,4 +5,5 @@ This line was added remotely from GitHub.
 Second remote line.
 Second local line.
 Feature line 1
-Feature line 2
+Feature line 2 - edited, not committed
+Feature line 3
